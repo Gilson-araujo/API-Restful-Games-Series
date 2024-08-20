@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "name": "Hanna",
+        "genre": "Aventura",
+        "synopsis": "Um suspense bem elaborado e um drama sobre o amadurecimento, HANNA segue a jonada de uma jovem (...)",
+        "liked": true,
+        "seasons": [
+            {
+                "season": "01",
+                "episodes": [
+                    {
+                        "id": 1,
+                        "code": "ep01",
+                        "name": "Episódio 1",
+                        "watched": true
+                    },
+                    {
+                        "id": 2,
+                        "code": "ep02",
+                        "name": "Episódio 2",
+                        "watched": false
+                    },
+                    {
+                        "id": 3,
+                        "code": "ep03",
+                        "name": "Episódio 3",
+                        "watched": false
+                    }
+                ]
+            },
+            {
+                "season": "02",
+                "episodes": [
+                    {
+                        "id": 1,
+                        "code": "ep01",
+                        "name": "Episódio 1",
+                        "watched": false
+                    },
+                    {
+                        "id": 2,
+                        "code": "ep02",
+                        "name": "Episódio 2",
+                        "watched": false
+                    },
+                    {
+                        "id": 3,
+                        "code": "ep03",
+                        "name": "Episódio 3",
+                        "watched": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "The Office",
+        "genre": "Comédia",
+        "synopsis": "Pessoas sem nocao trabalhando com outras pessoas sem nocao num escritorio com um chefe sem nocao",
+        "liked": true,
+        "seasons": [
+            {
+                "season": "01",
+                "episodes": [
+                    {
+                        "id": 1,
+                        "code": "ep01",
+                        "name": "Aquele onde tudo começa",
+                        "watched": true
+                    },
+                    {
+                        "id": 2,
+                        "code": "ep02",
+                        "name": "Aquele com o Michael",
+                        "watched": false
+                    },
+                    {
+                        "id": 3,
+                        "code": "ep03",
+                        "name": "Aquele com a namorada do Michael",
+                        "watched": true
+                    },
+                    {
+                        "id": 4,
+                        "code": "ep04",
+                        "name": "Aquele com o Jim",
+                        "watched": false
+                    }
+                ]
+            },
+            {
+                "season": "02",
+                "episodes": [
+                    {
+                        "id": 1,
+                        "code": "ep01",
+                        "name": "Aquele com a nova namorada",
+                        "watched": false
+                    },
+                    {
+                        "id": 2,
+                        "code": "ep02",
+                        "name": "Aquele do Jim e da Pam",
+                        "watched": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Breaking Bad",
+        "genre": "Drama",
+        "synopsis": "Um suspense bem elaborado e um drama sobre o protagonista, Breaking Bad segue a jonada de um professor (...)",
+        "liked": true,
+        "seasons": [
+            {
+                "season": "01",
+                "episodes": [
+                    {
+                        "id": 1,
+                        "code": "ep01",
+                        "name": "Ozymandyas",
+                        "watched": true
+                    },
+                    {
+                        "id": 2,
+                        "code": "ep01",
+                        "name": "Natal",
+                        "watched": false
+                    }
+                ]
+            },
+            {
+                "season": "02",
+                "episodes": []
+            },
+            {
+                "season": "03",
+                "episodes": []
+            }
+        ]
+    }
+]
